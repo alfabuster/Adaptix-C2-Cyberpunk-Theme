@@ -2,6 +2,8 @@
 
 A Cyberpunk 2077-inspired theme for the Adaptix C2 client.
 
+Includes custom UI and console color schemes designed to give Adaptix C2 a neon cyberpunk look.
+
 <img src="https://raw.githubusercontent.com/alfabuster/Adaptix-C2-Cyberpunk-Theme/refs/heads/main/img/screenshot-20260825_110538.png" />
 
 ## Basic installation

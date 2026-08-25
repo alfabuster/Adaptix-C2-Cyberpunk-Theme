@@ -1,10 +1,19 @@
 # Adaptix-C2-Cyberpunk-Theme
-Color theme like in PC Game CyberPunk 2077
 
-## How to install
-Just import 2 json files in Settings Adaptix C2 Client. 
+A Cyberpunk 2077-inspired theme for the Adaptix C2 client.
 
-<img width="1920" height="963" alt="adaptix_c2_cyberpunk" src="https://github.com/user-attachments/assets/4ff60a99-9039-4a91-b19e-366d0c8e6f73" />
+<img width="1920" height="963" alt="adaptix_c2_cyberpunk" src="https://github.com/user-attachments/assets/4ff60a99-9039-4a91-b19e-366d0c8e6f73](https://raw.githubusercontent.com/alfabuster/Adaptix-C2-Cyberpunk-Theme/refs/heads/main/img/screenshot-20260825_110538.png" />
+
+## Basic installation
+
+1. Download:
+    cyberpunk.json
+    console_cyberpunk.json
+2. Open Adaptix C2 Client.
+3. Go to Settings.
+4. Import the theme files.
+
+## Optional: custom background
 
 
 To change background, put image in `AdaptixC2/AdaptixClient/Resources/backgrounds/` , edit file Resourses.qrc
